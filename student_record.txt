@@ -1,0 +1,6 @@
+STUDENT RECORD
+Name: Juan Sebastian Apelo De Luna
+Course: CS0053
+Year Level: 4th Year
+Favorite Programming Language: JS
+Career Goal: Billionaire IT Guy
